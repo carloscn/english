@@ -2,6 +2,15 @@
 
 设立run-2023计划，开始考虑移民加拿大温哥华。移民是解决未来众多的一个有效的方法。但通过EE手段移民并不是一件容易的事情，需要不断的沉淀和积累。英语在EE适应性因素中占有极高的比重，因此我们需要来把英语搞好。我们分为：Stage I 和 Stage II两个阶段。 Stage I对于英语基础词汇、句子、听的整理；Stage II备考雅思需要达到8777黄金分数线。
 
+## List
+
+### 作文索引
+* [作文：2023年8月训练 ](https://github.com/carloscn/english/issues/6)
+
+### 单词索引
+* [单词：2023年8月遗忘](https://github.com/carloscn/english/issues/5)
+
+
 ### Stage I
 
 #### Level 1： 词汇
