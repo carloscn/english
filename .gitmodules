@@ -1,0 +1,3 @@
+[submodule "thirdpart/word"]
+	path = thirdpart/word
+	url = git@github.com:mahavivo/english-wordlists.git
