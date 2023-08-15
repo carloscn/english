@@ -5,10 +5,8 @@
 ## List
 
 ### 作文索引
-* [作文：2023年8月训练 ](https://github.com/carloscn/english/issues/6)
-
-### 单词索引
-* [单词：2023年8月遗忘](https://github.com/carloscn/english/issues/5)
+* [作文：002_关于旅行的作文_20230813](https://github.com/carloscn/english/issues/8)
+* [作文：001_关于健康生活的作文_20230809](https://github.com/carloscn/english/issues/6)
 
 
 ### Stage I
