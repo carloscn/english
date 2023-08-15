@@ -1,13 +1,24 @@
 # English Study
 
-设立run-2023计划，开始考虑移民加拿大温哥华。移民是解决未来众多的一个有效的方法。但通过EE手段移民并不是一件容易的事情，需要不断的沉淀和积累。英语在EE适应性因素中占有极高的比重，因此我们需要来把英语搞好。我们分为：Stage I 和 Stage II两个阶段。 Stage I对于英语基础词汇、句子、听的整理；Stage II备考雅思需要达到8777黄金分数线。
+设立run-2023计划，开始考虑拿到枫叶卡。移民是解决未来内卷、35岁危机等众多社会问题的一个有效的方法。“时代的尘埃落到每个人身上都是一座山”，上面大笔一挥，下面要背负十年甚至二十年的沉重之旅。但通过EE手段移民并不是一件容易的事情，需要自己自律和沉淀，要吃别人吃不了的苦。英语在EE适应性因素中占有极高的比重，根据枫叶卡的条件，也仅差英语一项。我们无法保证能找到一个可靠雇主，而且从工作经验上看，省提名也是需要很足的运气，这是我们无法保证的，我们只能死磕雅思，争取早日入池。英语方面我们分为：Stage I 和 Stage II两个阶段。
+
+* Stage I （2023.8 - 2023.12）：
+  * 所有可见可及的单词的复习和整理，我们归纳到 google sheet 上，参考： [单词大王](https://docs.google.com/spreadsheets/d/19JnOYMzr39maovVVY1MH8A72gUUxlVoI3N6g5iYSPF0/edit?usp=drive_web&ouid=106924728673329756443)
+  * 所有常用的短语，我们归纳到 google sheet 上，参考：[短语大王](https://docs.google.com/spreadsheets/d/1a2ZQJH7GG64CjUf3vBtnhKfOP5t1K0N9CcDSP9bSzao/edit#gid=0)
+  * 所有的常用的口语的句子，我们归纳到 google sheet 上，参考： [句子大王](https://docs.google.com/spreadsheets/d/1ykIJzGU6ZXABw_feIefMkp0HTFHo_PYM-a6y_ujcwM4/edit#gid=0)
+  * 以上单词大王、口语大王和短语大王是基础中的基础（基本盘），因此要求使用语言中枢输出，即不需要大脑思考就要弹出单词、短语和口语。
+  * 需要反复听常见的句子，建立映射，利用好一切零散的时间，例如地铁时间旅行时间等；
+  * 需要写作最常见的话题，使用ChatGPT帮忙改写为地道的表述方式，学习表述思路和常见表达方式；
+  * 阅读书籍（暂时还没找）
+
+* Stage II （2024.1 - 2024.6）：
+  * 雅思考试听说读写四个科目的准备。（TODO）
 
 ## List
 
 ### 作文索引
 * [作文：002_关于旅行的作文_20230813](https://github.com/carloscn/english/issues/8)
 * [作文：001_关于健康生活的作文_20230809](https://github.com/carloscn/english/issues/6)
-
 
 ### Stage I
 
