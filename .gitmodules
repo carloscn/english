@@ -1,3 +1,6 @@
 [submodule "thirdpart/word"]
 	path = thirdpart/word
 	url = git@github.com:mahavivo/english-wordlists.git
+[submodule "thirdpart/thesis-books"]
+	path = thirdpart/thesis-books
+	url = git@github.com:my3jie/thesis-books.git
