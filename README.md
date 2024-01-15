@@ -15,3 +15,7 @@
 
 ## 方法论
 * [英语方向与计划](https://github.com/carloscn/english/blob/master/method.md) [2023-08-01]
+
+## 日记
+
+* [Jan, 2024](https://github.com/carloscn/english/issues/12)
