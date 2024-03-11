@@ -8,6 +8,7 @@
 * [205_No Wrong Numbers](https://github.com/carloscn/english/issues/22) [2024-03-01]
 * [206_Percy Buttons](https://github.com/carloscn/english/issues/23) [2024-03-06]
 * [207_Too Late](https://github.com/carloscn/english/issues/24) [2024-03-07]
+* [208_The Best and The Worst](https://github.com/carloscn/english/issues/25) [2024-03-08]
 
 ## 语法
 * [01_语法_语法概论与Overview](https://github.com/carloscn/english/issues/9) [2023-09-19]
