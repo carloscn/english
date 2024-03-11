@@ -1,14 +1,15 @@
 # English Study
 
 ## 新概念
-* [201_A Private Conversation](https://github.com/carloscn/english/issues/18) [2024-02-20]
-* [202_breakfast and lunch](https://github.com/carloscn/english/issues/19) [2024-02-21]
-* [203_Please send me a card](https://github.com/carloscn/english/issues/20) [2024-02-26]
-* [204_An Exciting Trip](https://github.com/carloscn/english/issues/21) [2024-02-28]
-* [205_No Wrong Numbers](https://github.com/carloscn/english/issues/22) [2024-03-01]
-* [206_Percy Buttons](https://github.com/carloscn/english/issues/23) [2024-03-06]
-* [207_Too Late](https://github.com/carloscn/english/issues/24) [2024-03-07]
-* [208_The Best and The Worst](https://github.com/carloscn/english/issues/25) [2024-03-08]
+* [201_A Private Conversation](https://github.com/carloscn/english/issues/18) | 过去时 | 过去进行时 | [2024-02-20]
+* [202_breakfast and lunch](https://github.com/carloscn/english/issues/19) |一般现在时| 现在进行时 | 现在完成时 | [2024-02-21]
+* [203_Please send me a card](https://github.com/carloscn/english/issues/20)  | 并列句 | 双宾语 | [2024-02-26]
+* [204_An Exciting Trip](https://github.com/carloscn/english/issues/21) | 主系表结构 | 现在完成时 | [2024-02-28]
+* [205_No Wrong Numbers](https://github.com/carloscn/english/issues/22) | 介词 | [2024-03-01]
+* [206_Percy Buttons](https://github.com/carloscn/english/issues/23) | 名词 | 冠词 | [2024-03-06]
+* [207_Too Late](https://github.com/carloscn/english/issues/24) | 过去完成时 | 状语从句| [2024-03-07]
+* [208_The Best and The Worst](https://github.com/carloscn/english/issues/25) | 比较级 | [2024-03-08]
+* [209_A Cold Welcome](https://github.com/carloscn/english/issues/26) | 过去将来时 | 时间表述 | [2024-03-11]
 
 ## 语法
 * [01_语法_语法概论与Overview](https://github.com/carloscn/english/issues/9) [2023-09-19]
