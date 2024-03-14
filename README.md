@@ -18,7 +18,8 @@
 * [作文：001_关于健康生活的作文_20230809](https://github.com/carloscn/english/issues/6) [2023-08-09]
 * [作文：002_关于旅行的作文_20230813](https://github.com/carloscn/english/issues/8) [2023-08-13]
 * [写作：A story: A shopping trip](https://github.com/carloscn/english/issues/27) [2024-03-11]
-* [写作：A story: Gardening](https://github.com/carloscn/english/issues/30) [2024-03-12]_
+* [写作：A story: Gardening](https://github.com/carloscn/english/issues/30) [2024-03-12]
+* [写作：A story: Some flowers](https://github.com/carloscn/english/issues/32) [2024-03-13] [2024-03-14]
 
 ## 语法
 * [01_语法_语法概论与Overview](https://github.com/carloscn/english/issues/9) [2023-09-19]
