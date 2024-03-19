@@ -16,6 +16,8 @@
 * [213_The Greenwood Boys](https://github.com/carloscn/english/issues/35) | 将来进行时 | of的用法 |[2024-03-15]
 * [214_Do You Speak English](https://github.com/carloscn/english/issues/37) |as的用法 | [2024-3-18]
 * [215_Good News](https://github.com/carloscn/english/issues/38) | 宾语从句 |[2024-03-18]
+* [216_A Polite Request ](https://github.com/carloscn/english/issues/40) |if状语从句| [2024-03-19]
+* [217_Always Young ](https://github.com/carloscn/english/issues/41) |情态动词| have to与must区别 | [2024-03-19]
 
 ## 作文
 * [作文：001_关于健康生活的作文_20230809](https://github.com/carloscn/english/issues/6) [2023-08-09]
