@@ -18,6 +18,8 @@
 * [215_Good News](https://github.com/carloscn/english/issues/38) | 宾语从句 |[2024-03-18]
 * [216_A Polite Request ](https://github.com/carloscn/english/issues/40) |if状语从句| [2024-03-19]
 * [217_Always Young ](https://github.com/carloscn/english/issues/41) |情态动词| have to与must区别 | [2024-03-19]
+* [218_He Often Does This](https://github.com/carloscn/english/issues/44) [2024-03-20]
+* [219_Sold Out](https://github.com/carloscn/english/issues/45)  [2024-03-20]
 
 ## 作文
 * [作文：001_关于健康生活的作文_20230809](https://github.com/carloscn/english/issues/6) [2023-08-09]
