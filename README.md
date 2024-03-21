@@ -20,6 +20,8 @@
 * [217_Always Young ](https://github.com/carloscn/english/issues/41) |情态动词| have to与must区别 | [2024-03-19]
 * [218_He Often Does This](https://github.com/carloscn/english/issues/44) [2024-03-20]
 * [219_Sold Out](https://github.com/carloscn/english/issues/45)  [2024-03-20]
+* [220_One Man in A Boat](https://github.com/carloscn/english/issues/47) ｜动词作名词｜ [2024-03-21]
+* [221_Mad or Not](https://github.com/carloscn/english/issues/48) ｜动词作形容词｜ [2024-03-21]
 
 ## 作文
 * [作文：001_关于健康生活的作文_20230809](https://github.com/carloscn/english/issues/6) [2023-08-09]
