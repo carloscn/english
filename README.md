@@ -22,6 +22,8 @@
 * [219_Sold Out](https://github.com/carloscn/english/issues/45)  [2024-03-20]
 * [220_One Man in A Boat](https://github.com/carloscn/english/issues/47) ｜动词作名词｜ [2024-03-21]
 * [221_Mad or Not](https://github.com/carloscn/english/issues/48) ｜动词作形容词｜ [2024-03-21]
+* [222_A Glass Envelope](https://github.com/carloscn/english/issues/50) ｜with用法｜ [2024-03-22]
+* [223_A New House](https://github.com/carloscn/english/issues/51) ｜形容词顺序｜ [2024-03-22]
 
 ## 作文
 * [作文：001_关于健康生活的作文_20230809](https://github.com/carloscn/english/issues/6) [2023-08-09]
