@@ -26,6 +26,8 @@
 * [223_A New House](https://github.com/carloscn/english/issues/51) ｜形容词顺序｜ [2024-03-22]
 * [224_It Could Be Worse](https://github.com/carloscn/english/issues/53) [2024-03-25]
 * [225_Do the English speak English](https://github.com/carloscn/english/issues/54) | wonder用法 | [2024-03-25]
+* [226_The Best Art Critics ](https://github.com/carloscn/english/issues/56) [2024-03-26]
+* [227_A Wet Night ](https://github.com/carloscn/english/issues/57) [2024-03-26]
 
 ## 作文
 * [作文：001_关于健康生活的作文_20230809](https://github.com/carloscn/english/issues/6) [2023-08-09]
