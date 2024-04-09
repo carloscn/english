@@ -2,8 +2,6 @@
 
 ## 新概念
 
-<img width="996" alt="image" src="https://github.com/carloscn/english/assets/16836611/718d983b-6e7d-408a-ac9f-818df6f66f3b">
-
 * [201_A Private Conversation](https://github.com/carloscn/english/issues/18) | 过去时 | 过去进行时 | [2024-02-20]
 * [202_breakfast and lunch](https://github.com/carloscn/english/issues/19) |一般现在时| 现在进行时 | 现在完成时 | [2024-02-21]
 * [203_Please send me a card](https://github.com/carloscn/english/issues/20)  | 并列句 | 双宾语 | [2024-02-26]
@@ -35,9 +33,11 @@
 * [229_Taxi](https://github.com/carloscn/english/issues/61) | 表语从句 | [2024-03-27]
 * [230_Football or Polo ](https://github.com/carloscn/english/issues/63) [2024-03-28]
 * [231_Success Story ](https://github.com/carloscn/english/issues/64) [2024-03-28]
-* [232_Shopping Made Easy](https://github.com/carloscn/english/issues/67) [2024-04-08]
-* [233_Out of the Darkness](https://github.com/carloscn/english/issues/66) |形式主语/宾语| [2024-04-08]
-
+* [232_Shopping Made Easy](https://github.com/carloscn/english/issues/66) [2024-04-08]
+* [233_Out of the Darkness](https://github.com/carloscn/english/issues/67) |形式主语/宾语| [2024-04-08]
+* [234_Quick Work](https://github.com/carloscn/english/issues/70) [2024-04-09]
+* [235_Stop Thief](https://github.com/carloscn/english/issues/71) [2024-04-09]
+* 
 ## 作文
 * [作文：001_关于健康生活的作文_20230809](https://github.com/carloscn/english/issues/6) [2023-08-09]
 * [作文：002_关于旅行的作文_20230813](https://github.com/carloscn/english/issues/8) [2023-08-13]
