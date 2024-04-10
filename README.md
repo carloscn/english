@@ -37,7 +37,8 @@
 * [233_Out of the Darkness](https://github.com/carloscn/english/issues/67) |形式主语/宾语| [2024-04-08]
 * [234_Quick Work](https://github.com/carloscn/english/issues/70) [2024-04-09]
 * [235_Stop Thief](https://github.com/carloscn/english/issues/71) [2024-04-09]
-* 
+* [236_Across the Channel](https://github.com/carloscn/english/issues/74) [2024-04-10]
+* [237_The Olympic Games ](https://github.com/carloscn/english/issues/75) [2024-04-10] 
 ## 作文
 * [作文：001_关于健康生活的作文_20230809](https://github.com/carloscn/english/issues/6) [2023-08-09]
 * [作文：002_关于旅行的作文_20230813](https://github.com/carloscn/english/issues/8) [2023-08-13]
