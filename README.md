@@ -38,7 +38,9 @@
 * [234_Quick Work](https://github.com/carloscn/english/issues/70) [2024-04-09]
 * [235_Stop Thief](https://github.com/carloscn/english/issues/71) [2024-04-09]
 * [236_Across the Channel](https://github.com/carloscn/english/issues/74) [2024-04-10]
-* [237_The Olympic Games ](https://github.com/carloscn/english/issues/75) [2024-04-10] 
+* [237_The Olympic Games ](https://github.com/carloscn/english/issues/75) [2024-04-10]
+* [238_Everything except the weather](https://github.com/carloscn/english/issues/77) [2024-04-11]
+* [239_Am I all right?](https://github.com/carloscn/english/issues/78) [2024-04-11]
 ## 作文
 * [作文：001_关于健康生活的作文_20230809](https://github.com/carloscn/english/issues/6) [2023-08-09]
 * [作文：002_关于旅行的作文_20230813](https://github.com/carloscn/english/issues/8) [2023-08-13]
