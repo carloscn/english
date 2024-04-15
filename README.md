@@ -41,6 +41,10 @@
 * [237_The Olympic Games ](https://github.com/carloscn/english/issues/75) [2024-04-10]
 * [238_Everything except the weather](https://github.com/carloscn/english/issues/77) [2024-04-11]
 * [239_Am I all right?](https://github.com/carloscn/english/issues/78) [2024-04-11]
+* [242_Not Very Musical ](https://github.com/carloscn/english/issues/84) [2024-04-15]
+* [243_Over the South Pole ](https://github.com/carloscn/english/issues/85) [2024-04-15]
+* [244_Through the forest ](https://github.com/carloscn/english/issues/86) [2024-04-16]
+* [245_A Clear Conscience ](https://github.com/carloscn/english/issues/87) [2024-04-16]
 ## 作文
 * [作文：001_关于健康生活的作文_20230809](https://github.com/carloscn/english/issues/6) [2023-08-09]
 * [作文：002_关于旅行的作文_20230813](https://github.com/carloscn/english/issues/8) [2023-08-13]
