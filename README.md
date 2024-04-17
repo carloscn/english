@@ -45,6 +45,8 @@
 * [243_Over the South Pole ](https://github.com/carloscn/english/issues/85) [2024-04-15]
 * [244_Through the forest ](https://github.com/carloscn/english/issues/86) [2024-04-16]
 * [245_A Clear Conscience ](https://github.com/carloscn/english/issues/87) [2024-04-16]
+* [246_Expensive and Uncomfortable](https://github.com/carloscn/english/issues/89) [2024-04-17]
+* [247_A Thristy Ghost ](https://github.com/carloscn/english/issues/90) [2024-04-17]
 ## 作文
 * [作文：001_关于健康生活的作文_20230809](https://github.com/carloscn/english/issues/6) [2023-08-09]
 * [作文：002_关于旅行的作文_20230813](https://github.com/carloscn/english/issues/8) [2023-08-13]
