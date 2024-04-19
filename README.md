@@ -47,6 +47,10 @@
 * [245_A Clear Conscience ](https://github.com/carloscn/english/issues/87) [2024-04-16]
 * [246_Expensive and Uncomfortable](https://github.com/carloscn/english/issues/89) [2024-04-17]
 * [247_A Thristy Ghost ](https://github.com/carloscn/english/issues/90) [2024-04-17]
+* [248_Did you want to tell me something?](https://github.com/carloscn/english/issues/93) [2024-04-18]
+* [249_The End of a dream](https://github.com/carloscn/english/issues/94) [2024-04-18]
+* [250_Taken for a Ride](https://github.com/carloscn/english/issues/96) [2024-04-19]
+* [251_Reward for Virtue](https://github.com/carloscn/english/issues/97) [2024-04-19]
 ## 作文
 * [作文：001_关于健康生活的作文_20230809](https://github.com/carloscn/english/issues/6) [2023-08-09]
 * [作文：002_关于旅行的作文_20230813](https://github.com/carloscn/english/issues/8) [2023-08-13]
