@@ -61,6 +61,8 @@
 * [261_Trouble With the Hunbble](https://github.com/carloscn/english/issues/111) [2024-04-26]
 * [262_After the Fire](https://github.com/carloscn/english/issues/114) | 过去完成进行时 | [2024-05-08]
 * [263_She Was Not Amused](https://github.com/carloscn/english/issues/115) [2024-05-08]
+* [264_The Channel Tunnel](https://github.com/carloscn/english/issues/116) [2024-05-08]
+* [265_Jumbo Versus the Police](https://github.com/carloscn/english/issues/117) [2024-05-08]
 ## 作文
 * [作文：001_关于健康生活的作文_20230809](https://github.com/carloscn/english/issues/6) [2023-08-09]
 * [作文：002_关于旅行的作文_20230813](https://github.com/carloscn/english/issues/8) [2023-08-13]
