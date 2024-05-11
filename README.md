@@ -65,6 +65,8 @@
 * [265_Jumbo Versus the Police](https://github.com/carloscn/english/issues/117) [2024-05-08]
 * [266_Sweet as Honey](https://github.com/carloscn/english/issues/119) [2024-05-09]
 * [267_Vocanoes ](https://github.com/carloscn/english/issues/120) [2024-05-09]
+* [268_Persistent](https://github.com/carloscn/english/issues/123) [2024-05-11]
+* [269_But Not Murder ](https://github.com/carloscn/english/issues/124) [2024-05-11]
 ## 作文
 * [作文：001_关于健康生活的作文_20230809](https://github.com/carloscn/english/issues/6) [2023-08-09]
 * [作文：002_关于旅行的作文_20230813](https://github.com/carloscn/english/issues/8) [2023-08-13]
